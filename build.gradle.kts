@@ -83,7 +83,7 @@ tasks.jacocoTestReport {
 
 sonar {
     properties {
-        property("sonar.projectKey", "a-muhammad-aldo-fahrezy-2406423055_module-02-ci-cd-devops")
+        property("sonar.projectKey", "A-Muhammad-Aldo-Fahrezy-2406423055_Module-02-CI-CD-DevOps")
         property("sonar.organization", "a-muhammad-aldo-fahrezy-2406423055")
         property("sonar.host.url", "https://sonarcloud.io")
     }
